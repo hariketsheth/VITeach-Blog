@@ -601,9 +601,11 @@ body.dark-theme {
 }
 
 .testimonial__perfil-name {
-  font-size: var(--h3-font-size);
-  font-weight: var(--font-medium);
+  font-size: var(--h2-font-size);
+  font-weight: var(--font-bold);
   color: var(--title-color);
+  font-family: viteach;
+
 }
 
 .testimonial__perfil-detail {
